@@ -4,8 +4,8 @@ const rpc = require("discordrpcgenerator");
 
 
 let NAME = "Zero Two"
-let DETAILS = "Créé par Dialz"
-let STATE = "Rejoint notre discord pour RPC"
+let DETAILS = "Zero Two Communauté"
+let STATE = "Rejoint notre discord pour le RPC"
 let URL = "https://twitch.tv/kurumiproject"
 let APPID = "1119181889429844039"
 let LARGEIMG = "zrl"
